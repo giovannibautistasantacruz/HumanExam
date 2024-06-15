@@ -1,0 +1,60 @@
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\appsettings.Development.json
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\appsettings.json
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.staticwebassets.runtime.json
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.exe
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.deps.json
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.runtimeconfig.json
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.dll
+D:\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.pdb
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.AssemblyInfoInputs.cache
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.AssemblyInfo.cs
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.csproj.CoreCompileInputs.cache
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.MvcApplicationPartsAssemblyInfo.cache
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.RazorAssemblyInfo.cache
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.RazorAssemblyInfo.cs
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets.build.json
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets.development.json
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.WebRH.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.build.WebRH.props
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebRH.props
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebRH.props
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\scopedcss\bundle\WebRH.styles.css
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\scopedcss\projectbundle\WebRH.bundle.scp.css
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.dll
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\refint\WebRH.dll
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.pdb
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.genruntimeconfig.cache
+D:\Examen\ExamenRH\WebRH\obj\Debug\net8.0\ref\WebRH.dll
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\appsettings.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.staticwebassets.runtime.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.exe
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.deps.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.runtimeconfig.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.dll
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\bin\Debug\net8.0\WebRH.pdb
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.AssemblyInfoInputs.cache
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.AssemblyInfo.cs
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.csproj.CoreCompileInputs.cache
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.RazorAssemblyInfo.cache
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.RazorAssemblyInfo.cs
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.WebRH.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.build.WebRH.props
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebRH.props
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebRH.props
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\scopedcss\bundle\WebRH.styles.css
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\scopedcss\projectbundle\WebRH.bundle.scp.css
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.dll
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\refint\WebRH.dll
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.pdb
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\WebRH.genruntimeconfig.cache
+C:\Users\Omar Bautista\Documents\UVEG\Examen[1]\Examen\ExamenRH\WebRH\obj\Debug\net8.0\ref\WebRH.dll
